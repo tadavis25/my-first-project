@@ -3,7 +3,11 @@ body{
     background-image: url("../images/01-02-02_background-img.jpg");
 }
 p{
-    font-weight: bold;
+    font-weight: bold;   
+}
+
+p{
+    text-align: center;
 }
 
 
