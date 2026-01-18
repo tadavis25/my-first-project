@@ -2,15 +2,15 @@ body{
     background-color: lightgrey;
     background-image: url("../images/01-02-02_background-img.jpg");
 }
-p{
+p {
     font-weight: bold;   
 }
 
-p{
+p {
     text-align: center;
 }
 
 
-h2{
+h2 {
     color: orangered;
 }
